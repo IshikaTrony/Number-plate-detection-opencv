@@ -1,10 +1,10 @@
-# 🚗 Automatic Number Plate Detection using OpenCV & EasyOCR
+#  Automatic Number Plate Detection using OpenCV & EasyOCR
 
 This project detects vehicle number plates from images using OpenCV for image processing and EasyOCR for character recognition. It is designed with Indian plate formats in mind and can be extended for traffic surveillance, law enforcement, or parking automation.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Detects number plate area using edge detection and contour analysis
 - Extracts characters using EasyOCR
@@ -61,18 +61,9 @@ number-plate-detection-opencv/
 ---
 
 ## 📷 Sample Output
-
-_(You can upload a screenshot here showing the detected plate and result overlay.)_
+_
 
 ---
-
-## 👨‍💻 Team Members
-
-- Ishika Trony  
-- Hrithudev V S  
-- P Anand  
-- Aakash S  
-
 ---
 
 ## 📚 References
